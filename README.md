@@ -2,6 +2,10 @@
 ## 精简自用：
 [https://ghfast.top/https://raw.githubusercontent.com/xsxinghen/ysjk/refs/heads/main/app.json](https://ghfast.top/https://raw.githubusercontent.com/xsxinghen/ysjk/refs/heads/main/app.json)
 
+[https://ghproxy.net/https://raw.githubusercontent.com/xsxinghen/ysjk/refs/heads/main/app.json](https://ghproxy.net/https://raw.githubusercontent.com/xsxinghen/ysjk/refs/heads/main/app.json)
+
+[https://gh.llkk.cc/https://raw.githubusercontent.com/xsxinghen/ysjk/refs/heads/main/app.json](https://gh.llkk.cc/https://raw.githubusercontent.com/xsxinghen/ysjk/refs/heads/main/app.json)
+
 ## 转载地址：
 [https://github.com/qirenzhidao](https://github.com/qirenzhidao)
 
