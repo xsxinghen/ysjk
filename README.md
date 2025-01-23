@@ -22,6 +22,6 @@ md5;199d292d646c6d3b0d6a2b37eb30f05b
 
 # 修改HOSTS加速:
 ## 直接修改hosts文件：[https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
-### 开源Github:[https://github.com/521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
-## 自动修改
+开源Github:[https://github.com/521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
+## windows自动修改：
 SwitchHosts：[https://github.com/oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)
