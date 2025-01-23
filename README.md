@@ -1,4 +1,4 @@
-# 链接：
+# 链接：[https://kkgithub.com/xsxinghen/ysjk](https://kkgithub.com/xsxinghen/ysjk)
 ## 精简自用：
 [https://ghfast.top/https://raw.githubusercontent.com/xsxinghen/ysjk/refs/heads/main/app.json](https://ghfast.top/https://raw.githubusercontent.com/xsxinghen/ysjk/refs/heads/main/app.json)
 
