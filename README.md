@@ -12,8 +12,6 @@
 
 ## f01242.txt;
 md5;c4745a1b57105d124cf1b429eba5d4bf
-## f01242.txt;
-md5;c4745a1b57105d124cf1b429eba5d4bf
 ## f0122.txt;
 md5;1aa6ec5b5545453d6850174fc1fcc78c
 ## f01162.txt;
