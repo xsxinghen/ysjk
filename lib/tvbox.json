@@ -1,6 +1,10 @@
 {
 "urls":[
 {
+"url":"https://cnb.cool/xsxinghen/ysjk/-/git/raw/main/app.json",
+"name":"CND线路"
+},
+{
 "url":"https://gitee.com/xsxinghen/ysjk/raw/master/app.json"，
 "name":"Gitee线路"
 }，
